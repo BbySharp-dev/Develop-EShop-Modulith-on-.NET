@@ -1,0 +1,2 @@
+EshopModularMonoliths: https://github.com/mehmetozkaya/EshopModularMonoliths
+EshopModularMonoliths-Sections: https://github.com/mehmetozkaya/EshopModularMonoliths-Sections
