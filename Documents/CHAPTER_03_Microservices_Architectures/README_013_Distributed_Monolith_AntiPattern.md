@@ -43,6 +43,7 @@ Mặc dù hệ thống đã được chia thành nhiều service, nhưng chúng 
 ---
 
 ## 📊 Biểu đồ minh họa 4 kiến trúc điển hình
+```
           ^ 
   High    |                           ✅ Microservices
 Modularity|                (nhiều service, modular cao)
@@ -59,7 +60,7 @@ Modularity|                (nhiều service, modular cao)
           ---------------------------------------------->
                       Số lượng service được triển khai
 
-
+```
 
 - ✅ **Microservices**: modular cao, scale riêng từng phần
 - 🟡 **Modular Monolith**: chia module tốt, deploy 1 khối
