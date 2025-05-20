@@ -11,13 +11,13 @@ Tài liệu này giúp bạn hiểu cách tổ chức mã nguồn trong giải p
 ---
 
 ## 🧭 Cấu trúc tổng thể của Solution
-
+```
 /SolutionRoot 
 ├── Bootstrapper // Điểm khởi đầu ứng dụng 
 ├── Modules // Các module nghiệp vụ độc lập 
 ├── Shared // Các thành phần chia sẻ dùng chung 
 ├── docker-compose.yml // Tập tin cấu hình môi trường chạy
-
+```
 ---
 
 ## 1️⃣ Bootstrapper – Điểm khởi động API
